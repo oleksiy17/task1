@@ -1,0 +1,3 @@
+C:/Users/intern/Desktop/task_1/build/tmp/CMakeFiles/wavCopy.dir
+C:/Users/intern/Desktop/task_1/build/tmp/CMakeFiles/ALL_BUILD.dir
+C:/Users/intern/Desktop/task_1/build/tmp/CMakeFiles/ZERO_CHECK.dir
